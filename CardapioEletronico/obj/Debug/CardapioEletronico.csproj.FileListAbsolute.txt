@@ -1,0 +1,10 @@
+D:\MeusDocumentos\Nova pasta\COMPASSO UOL\ESTAGIO\PROVA_2\ATIVIDADE_1\CardapioEletronico\CardapioEletronico\bin\Debug\CardapioEletronico.exe.config
+D:\MeusDocumentos\Nova pasta\COMPASSO UOL\ESTAGIO\PROVA_2\ATIVIDADE_1\CardapioEletronico\CardapioEletronico\bin\Debug\CardapioEletronico.exe
+D:\MeusDocumentos\Nova pasta\COMPASSO UOL\ESTAGIO\PROVA_2\ATIVIDADE_1\CardapioEletronico\CardapioEletronico\bin\Debug\CardapioEletronico.pdb
+D:\MeusDocumentos\Nova pasta\COMPASSO UOL\ESTAGIO\PROVA_2\ATIVIDADE_1\CardapioEletronico\CardapioEletronico\obj\Debug\CardapioEletronico.csproj.AssemblyReference.cache
+D:\MeusDocumentos\Nova pasta\COMPASSO UOL\ESTAGIO\PROVA_2\ATIVIDADE_1\CardapioEletronico\CardapioEletronico\obj\Debug\CardapioEletronico.csproj.CoreCompileInputs.cache
+D:\MeusDocumentos\Nova pasta\COMPASSO UOL\ESTAGIO\PROVA_2\ATIVIDADE_1\CardapioEletronico\CardapioEletronico\obj\Debug\CardapioEletronico.exe
+D:\MeusDocumentos\Nova pasta\COMPASSO UOL\ESTAGIO\PROVA_2\ATIVIDADE_1\CardapioEletronico\CardapioEletronico\obj\Debug\CardapioEletronico.pdb
+D:\MeusDocumentos\Nova pasta\COMPASSO UOL\ESTAGIO\PROVA_2\ATIVIDADE_1\CardapioEletronico\CardapioEletronico\bin\Debug\Newtonsoft.Json.dll
+D:\MeusDocumentos\Nova pasta\COMPASSO UOL\ESTAGIO\PROVA_2\ATIVIDADE_1\CardapioEletronico\CardapioEletronico\bin\Debug\Newtonsoft.Json.xml
+D:\MeusDocumentos\Nova pasta\COMPASSO UOL\ESTAGIO\PROVA_2\ATIVIDADE_1\CardapioEletronico\CardapioEletronico\obj\Debug\CardapioEletronico.csproj.CopyComplete
